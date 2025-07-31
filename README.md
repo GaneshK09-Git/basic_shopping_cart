@@ -1,4 +1,4 @@
-Title: Basic Shopping Cart 🛒
+#Basic Shopping Cart
 
 (Beginner-level – basic input/output)
 (Only keeps one item, price, quantity)
@@ -12,7 +12,5 @@ This is a beginner-friendly shopping cart program written in Python. It allows t
 Features:
 
 Accepts user input for item name, price, and quantity
-
 Calculates total price = price × quantity
-
 Displays purchase summary clearly
